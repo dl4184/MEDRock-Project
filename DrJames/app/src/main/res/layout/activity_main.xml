@@ -50,7 +50,8 @@
                 android:id="@+id/TestButton"
                 android:layout_gravity="center_horizontal"
                 android:textSize="25dp"
-                android:layout_weight="0.05" />
+                android:layout_weight="0.05"
+                android:onClick="openTestActivity"/>
 
             <Space
                 android:layout_width="match_parent"
