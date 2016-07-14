@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">DrJames</string>
+    <string name="app_name">Dr. James</string>
+    <string name="about_button_text"><u>About Parkinson\'s disease</u></string>
+    <string name="instructions"><i>\"Everything has beauty, but not everyone sees it.\"</i></string>
+    <string name="instructions2"><i><b>\"Everything has beauty, but not everyone sees it.\"</b></i></string>
+    <string name="instruction_start"><b>"Press the button below and read the following:"</b></string>
+    <string name="instruction_start2">"Press the button below and read the following:"</string>
 </resources>
