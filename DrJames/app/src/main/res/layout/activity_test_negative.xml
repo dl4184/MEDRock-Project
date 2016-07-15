@@ -30,7 +30,7 @@
                 android:id="@+id/imageView"
                 android:layout_gravity="center_horizontal"
                 android:src="@drawable/logo_medium"
-                 />
+                />
 
             <Space
                 android:layout_width="match_parent"
@@ -47,7 +47,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_weight="0.11"
                 android:textSize="20dp"
-                android:id="@+id/result_test_negtive"
+                android:id="@+id/result_test_negative"
                 />
 
             <!--<TextView

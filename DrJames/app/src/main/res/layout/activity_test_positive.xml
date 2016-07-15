@@ -50,20 +50,19 @@
                 android:id="@+id/result_test_positive"
                 />
 
-            <!--<TextView
-                android:layout_width="wrap_content"
+            <Space
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/about_button_text"
-                android:id="@+id/textView3"
-                android:layout_weight="0.19"
-                android:textAlignment="center"
-                android:textSize="20sp"
-                android:layout_gravity="center"
-                android:textColor="@color/textColor"
-                android:onClick="openAboutActivity"
-                />
-                -->
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="0" />
 
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:id="@+id/imageView2"
+                android:layout_weight="0.8"
+                android:src="@drawable/phone"
+                android:layout_gravity="center_horizontal" />
 
 
         </LinearLayout>
