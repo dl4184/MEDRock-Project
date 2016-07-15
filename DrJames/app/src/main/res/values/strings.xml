@@ -5,4 +5,6 @@
     <string name="instructions2"><i><b>\"Everything has beauty, but not everyone sees it.\"</b></i></string>
     <string name="instruction_start"><b>"Press the button below and read the following:"</b></string>
     <string name="instruction_start2">"Press the button below and read the following:"</string>
+    <string name="result_test_positive"><b>Characteristics of Parkinson\'s disease detected. We advise you to see your doctor.</b></string>
+    <string name="result_test_negative"><b>No signs of Parkinson\'s disease detected.</b></string>
 </resources>

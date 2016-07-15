@@ -103,11 +103,15 @@ public class MainActivity extends AppCompatActivity {
                         stopRecording();
                         Log.println(Log.INFO,"bla",mFileName);
                         beep();
+                        Intent intent = new Intent(MainActivity.this, TestPositiveActivity.class);
+                        startActivity(intent);
                     }
                 });
 
             }
         }, 6000);
+
+
 
     }
 

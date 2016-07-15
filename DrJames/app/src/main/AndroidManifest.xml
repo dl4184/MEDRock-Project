@@ -18,7 +18,16 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".AboutActivity"
+        <activity android:name=".TestPositiveActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".TestNegativeActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
